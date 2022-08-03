@@ -1,0 +1,12 @@
+[
+  {
+    "categoria": "Adivina el nombre",
+    "pregunta": "¿Cuál es su nombre?",
+    "true": "Melvin",
+    "false1": "Tony",
+    "false2": "Sam",
+    "false3": "Manny",
+    "imagen": "https://revistapym.com.co/wp-content/uploads/2019/03/6.-2019.png",
+    "object_fit": "cover"
+  }
+]
